@@ -1,2 +1,6 @@
 [tools]
 node = "22"
+
+
+[tasks]
+start = "npx ng serve --open"
